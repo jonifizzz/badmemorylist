@@ -1,0 +1,7 @@
+{
+    "issueLinkingConfig": {
+        "issue": "#(\\d+)",
+        "url": "https://github.com/jonifizzz/badmemorylist/issues/$1"
+    },
+    "exportedAt": 1794746422507
+}
